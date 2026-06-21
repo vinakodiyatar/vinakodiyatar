@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m a Full Stack Developer with 1.5+ years of experience working with the MERN stack (MongoDB, Express.js, React.js, Node.js).<br><br>I enjoy building scalable web applications and creating clean, user-friendly interfaces. I have experience working on real-world projects, APIs, and backend systems.<br><br>💻 Tech Stack:<br><br>Frontend: React.js<br>Backend: Node.js, Express.js<br>Database: MongoDB<br><br>🚀 Currently focused on improving my skills, building projects, and exploring new technologies.
 
 
