@@ -107,7 +107,7 @@ An AI-powered marketing platform designed around multi-provider AI orchestration
 - Administrative usage analytics
 
 **Tech:** `Node.js` • `Express.js` • `MongoDB` • `Gemini` • `Mistral AI` • `JWT` • `REST APIs`  
-👉 **[View Repository](https://github.com/vinakodiyatar/marketpilot-ai-backend)**
+👉 🔗 **[Live Demo](https:/mern-ai-saas-frontend.vercel.app)** • 📁 **[View Repository](https://github.com/vinakodiyatar/marketpilot-ai-backend)**
 
 ---
 
@@ -126,13 +126,13 @@ A backend scheduling system that calculates order completion times while conside
 - SQLite persistence
 
 **Tech:** `Node.js` • `SQLite` • `better-sqlite3` • `Scheduling Algorithms`  
-👉 **[View Repository](https://github.com/vinakodiyatar/moonwalk-kitchen)**
+• 📁 **[View Repository](https://github.com/vinakodiyatar/moonwalk-kitchen)**
 
 ---
 
 ### 🌐 [Portfolio](https://github.com/vinakodiyatar/portfolio)
 My personal developer portfolio built using Next.js and TypeScript, showcasing my experience, projects, technical skills, and work.  
-👉 **[View Repository](https://github.com/vinakodiyatar/portfolio)**
+👉 🔗 **[Live Website](portfolio-livid-nu-zdz0n6d1b6.vercel.app)** • 📁 **[View Repository](https://github.com/vinakodiyatar/portfolio)**
 
 ---
 
@@ -180,21 +180,11 @@ I'm particularly interested in building systems involving:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=vinakodiyatar&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=vinakodiyatar&theme=dark&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=vinakodiyatar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 If you're interested in backend engineering, AI-powered applications, system design, or collaborating on interesting projects, feel free to connect:
 
-- 💼 **LinkedIn:** [linkedin.com/in/vinakodiyatar](https://linkedin.com/in/vinakodiyatar)
+- 💼 **LinkedIn:** [linkedin.com/in/vinakodiyatar](www.linkedin.com/in/vina-kodiyatar)
 - 📝 **Hashnode:** [Hashnode Articles](https://hashnode.com/@vinakodiyatar)
 - 🌐 **Portfolio:** [Developer Portfolio](https://github.com/vinakodiyatar/portfolio)
 - 🐙 **GitHub:** [github.com/vinakodiyatar](https://github.com/vinakodiyatar)
