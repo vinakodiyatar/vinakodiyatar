@@ -13,13 +13,13 @@ I also enjoy building independent projects to explore backend architecture, AI i
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/vinakodiyatar" target="_blank">
+  <a href="https://www.linkedin.com/in/vina-kodiyatar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/vinakodiyatar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/vinakodiyatar/portfolio" target="_blank">
+  <a href="https://portfolio-livid-nu-zdz0n6d1b6.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
@@ -130,9 +130,9 @@ A backend scheduling system that calculates order completion times while conside
 
 ---
 
-### 🌐 [Portfolio](https://github.com/vinakodiyatar/portfolio)
+### 🌐 [Portfolio](https://portfolio-livid-nu-zdz0n6d1b6.vercel.app)
 My personal developer portfolio built using Next.js and TypeScript, showcasing my experience, projects, technical skills, and work.  
-👉 🔗 **[Live Website](portfolio-livid-nu-zdz0n6d1b6.vercel.app)** • 📁 **[View Repository](https://github.com/vinakodiyatar/portfolio)**
+👉 🔗 **[Live Website](https://portfolio-livid-nu-zdz0n6d1b6.vercel.app)** • 📁 **[View Repository](https://github.com/vinakodiyatar/portfolio)**
 
 ---
 
@@ -184,9 +184,9 @@ I'm particularly interested in building systems involving:
 
 If you're interested in backend engineering, AI-powered applications, system design, or collaborating on interesting projects, feel free to connect:
 
-- 💼 **LinkedIn:** [linkedin.com/in/vinakodiyatar](www.linkedin.com/in/vina-kodiyatar)
+- 💼 **LinkedIn:** [linkedin.com/in/vina-kodiyatar](https://www.linkedin.com/in/vina-kodiyatar)
 - 📝 **Hashnode:** [Hashnode Articles](https://hashnode.com/@vinakodiyatar)
-- 🌐 **Portfolio:** [Developer Portfolio](https://github.com/vinakodiyatar/portfolio)
+- 🌐 **Portfolio:** [portfolio-livid-nu-zdz0n6d1b6.vercel.app](https://portfolio-livid-nu-zdz0n6d1b6.vercel.app)
 - 🐙 **GitHub:** [github.com/vinakodiyatar](https://github.com/vinakodiyatar)
 
 ---
